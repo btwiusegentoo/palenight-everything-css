@@ -7,6 +7,10 @@ a {
 a:visited {
     color: #82aaff !important;
 }
+
+p {
+    color: #a6accd !important;
+}
 body {
     background-color: #292d3e !important;
     color: #959dcb !important;
@@ -1717,9 +1721,5 @@ a.comment-user.owner {
 }
 
 .rantlist-title {
-    color: #a6accd !important;
-}
-
-.speakable-summary {
     color: #a6accd !important;
 }
